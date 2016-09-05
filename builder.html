@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="description" content = "Richard Igbiriki's personal portfolio and website.">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Java, C++, Blender, Photoshop, Portfolio, Computer Science, Lincoln University, Nigeria, Python, Biography, Richard's Biography, Xcode, Android applications, ios applications">
+    <meta name="author" content="Richard Igbiriki">
+    <link rel="shortcut icon" href="../favicon.ico" type='image/x-icon'/>
+
+    <title>Richard Igbiriki</title>
+    <!-- Custom CSS -->
+    <link href="css/stylish-portfolio.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script   src="https://code.jquery.com/jquery-3.1.0.min.js"   integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<body>
+
+    <!-- Navigation -->
+    <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+    <nav id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
+            <li class="sidebar-brand">
+                <a href="#top"  onclick = $("#menu-close").click(); >Menu</a>
+            </li>
+            <li>
+                <a href="../index.html" onclick = $("#menu-close").click(); >Home</a>
+            </li>
+            <li>
+                <a href="about.html" onclick = $("#menu-close").click(); >About</a>
+            </li>
+            <li>
+                <a href="../index.html" onclick = $("#menu-close").click(); >Services</a>
+            </li>
+            <li>
+                <a href="portfolio.html" onclick = $("#menu-close").click(); >Portfolio</a>
+            </li>
+            <li>
+                <a href="builder.html" onclick = $("#menu-close").click(); >Resume Builder</a>
+            </li>
+            <li>
+                <a href="../index.html" onclick = $("#menu-close").click(); >Contact</a>
+            </li>
+        </ul>
+    </nav>
+    <div class="col-sm-10 col-md-10 col-lg-10 col-sm-offset-1">
+    <div class="panel">
+      <div class="panel-info">
+        <div class="panel-heading">
+          <div class="panel-title text-center hid"><h2>Resume Builder</h2></div>
+        </div>
+      </div>
+      <div class="panel-body">
+        <div class="row">
+          <div class="col-sm-12 col-lg-12 col-md-12">
+            <p class="lead"><i class="fa fa-info-circle" aria-hidden="true"></i> Complete the forms on the left to generate your resume. "Update Preview" to see your resume progress.</p>
+            <div class="col-sm-6 resumeInfo">
+              <div class="row">
+  <div class="panel-group" id="accordion">
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Contact Information</a>
+        </h4>
+      </div>
+      <div id="collapse1" class="panel-collapse collapse in">
+        <div class="panel-body">
+          <p class="lead"><i class="fa fa-info-circle" aria-hidden="true"></i> Enter Contact Information</p>
+          <form class="form-horizontal" action="">
+            <div class="form-group">
+              <div class="form-group row">
+                <div class="col-sm-10 col-sm-offset-1">
+                  <input type="text" class="form-control"  id="inputName" placeholder="Enter Full Name">
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <input type="text" class="form-control" id="inputAddress" placeholder="Enter Full Address">
+            </div>
+          </div>
+              <div class="form-group row">
+                <div class="col-sm-10 col-sm-offset-1">
+                  <input type="email" class="form-control" id="inputEmail" placeholder="Enter Email">
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <input type="text" class="form-control" id="inputPhone" placeholder="Enter Phone Number">
+            </div>
+          </div>
+          <div class="form-group row">
+            <div class="col-sm-10 col-sm-offset-1">
+              <input type="text" class="form-control" id="inputPortfolio" placeholder="Enter Portfolio URL (Optional)">
+          </div>
+        </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Education</a>
+        </h4>
+      </div>
+      <div id="collapse2" class="panel-collapse collapse">
+        <div class="panel-body">
+          <p class="lead"><i class="fa fa-info-circle" aria-hidden="true"></i> Enter Education Details</p>
+          <form class="form-horizontal" action="">
+            <div class="form-group">
+              <div class="form-group row">
+                <div class="col-sm-10 col-sm-offset-1">
+                  <input type="text" class="form-control"  id="inputUniversity" placeholder="Name Of University">
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <input type="text" class="form-control" id="inputMajor" placeholder="Enter Major">
+            </div>
+          </div>
+          <div class="form-group row">
+            <div class="col-sm-10 col-sm-offset-1">
+              <input type="text" class="form-control" id="inputMajor2" placeholder="Second Major/Minor">
+          </div>
+        </div>
+              <div class="form-group row">
+                <div class="col-sm-4 col-sm-offset-1">
+                  <input type="text" class="form-control"  id="inputStartYear" placeholder="Year Started">
+              </div>
+              <div class="col-sm-4">
+              <input type="text" class="form-control" id="inputExpected" placeholder="Expected Graduation">
+              <p id="courseHelpBlock" class="form-text text-muted">e.g May 2017</p>
+            </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <input type="text" class="form-control" id="inputGPA" maxlength="4" placeholder="Enter GPA">
+            </div>
+          </div>
+          <div class="form-group row">
+            <div class="col-sm-10 col-sm-offset-1">
+            <textarea class="form-control" maxlength="170" id="inputCoursework" placeholder="Related Coursework" rows="5" maxlength="200"></textarea>
+            <p id="courseHelpBlock" class="form-text text-muted">Max Length: 200</p>
+          </div>
+        </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Work Experience</a>
+        </h4>
+      </div>
+      <div id="collapse3" class="panel-collapse collapse">
+        <div class="panel-body">
+          <p class="lead"><i class="fa fa-info-circle" aria-hidden="true"></i> Add Up To Four Relevant Work Experiences</p>
+          <form class="form-horizontal" action="" >
+            <div id="myForm">
+              <div class="form-group row">
+                <div class="col-sm-10 col-sm-offset-1">
+                  <input type="text" class="form-control" id="Institution1" placeholder="Name of Institution">
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <input type="text" class="form-control" id="Location1"  placeholder="Location of Institution">
+                <p id="courseHelpBlock" class="form-text text-muted">e.g San Francisco, CA</p>
+            </div>
+          </div>
+              <div class="form-group row">
+                <div class="col-sm-10 col-sm-offset-1">
+                  <div class="col-sm-6">
+                    <input type="text" class="form-control" id="StartDate1" placeholder="Start Date">
+                    <p id="courseHelpBlock" class="form-text text-muted">e.g May 2017</p>
+                </div>
+                <div class="col-sm-6">
+                <input type="text" class="form-control" id="EndDate1" placeholder="End Date or Present ">
+                <p id="courseHelpBlock" class="form-text text-muted">e.g May 2017</p>
+              </div>
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <textarea rows="3" maxlength="170" class="form-control" id="Description1" placeholder="Synopsis of Institution (Optional)"></textarea>
+                <p id="courseHelpBlock" class="form-text text-muted">e.g Design and development of consumer electronics, computer software, and online services.</p>
+            </div>
+          </div>
+          <div class="form-group row">
+            <div class="col-sm-10 col-sm-offset-1">
+              <input type="text" class="form-control" id="jobTitle1" placeholder="Enter Job Title">
+          </div>
+        </div>
+        <div class="form-group row">
+          <div class="col-sm-10 col-sm-offset-1">
+            <textarea rows="3" maxlength="170" class="form-control" id="FRole1" placeholder="Enter a Duty Performed"></textarea>
+            <p id="courseHelpBlock" class="form-text text-muted">Hint: Use action words</p>
+        </div>
+      </div>
+      <div class="form-group row">
+        <div class="col-sm-10 col-sm-offset-1">
+          <textarea rows="3" maxlength="170" class="form-control" id="SRole1" placeholder="Enter Another Duty Performed"></textarea>
+      </div>
+    </div>
+    </div>
+    <div class="col-sm-10"></div>
+    <div class="col-sm-2"><a id="work"><i class="fa fa-plus fa-2x" aria-hidden="true"></i></a></div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Skills</a>
+        </h4>
+      </div>
+      <div id="collapse4" class="panel-collapse collapse">
+        <div class="panel-body">
+          <div id="skillSet">
+         <p class="lead"><i class="fa fa-info-circle" aria-hidden="true"></i> Add Up To Six Relevant Skill Sets </p>
+         <div class="form-group row">
+           <div class="col-sm-10 col-sm-offset-1">
+             <textarea rows="3" maxlength="170" class="form-control" id="skill1" placeholder="Enter Skill 1 "></textarea>
+             <p id="courseHelpBlock" class="form-text text-muted">e.g Exceptional strategic and analytical thinking abilities</p>
+         </div>
+       </div>
+       </div>
+       <div class="col-sm-10"></div>
+       <div class="col-sm-2"><a id="skills"><i class="fa fa-plus fa-2x" aria-hidden="true"></i></a></div>
+       </div>
+      </div>
+    </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">Academic Honors and Activities</a>
+        </h4>
+      </div>
+      <div id="collapse5" class="panel-collapse collapse">
+        <div class="panel-body">
+          <p class="lead"><i class="fa fa-info-circle" aria-hidden="true"></i> Add Up To Six Relevant Academic Honor/Activities </p>
+          <p class="text-danger">For Activities, please provide a start and end date or enter present if still involved. For Honors/Award, enter semester received as start year. For e.g Fall 2015 or Spring 2016.</p>
+          <div id="Activities">
+          <div class="form-group row">
+            <div class="col-sm-10 col-sm-offset-1">
+              <textarea rows="3" maxlength="170" class="form-control" id="honor1" placeholder="Enter an Activity or Honor"></textarea>
+              <p id="courseHelpBlock" class="form-text text-muted">e.g Member of the Horace Mann Bond Honors Program</p>
+          </div>
+        </div>
+        <div class="form-group row">
+          <div class="col-sm-4 col-sm-offset-1">
+            <input type="text" class="form-control" id="StartYear1" placeholder="Start Year">
+            <p id="courseHelpBlock" class="form-text text-muted">e.g 2016</p>
+        </div>
+        <div class="col-sm-6">
+        <input type="text" class="form-control" id="EndYear1" placeholder="End Date or Present">
+        <p id="courseHelpBlock" class="form-text text-muted">e.g 2017</p>
+      </div>
+      </div>
+      </div>
+        <div class="col-sm-10"></div>
+        <div class="col-sm-2"><a id="honors"><i class="fa fa-plus fa-2x" aria-hidden="true"></i></a></div>
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">Projects</a>
+        </h4>
+      </div>
+      <div id="collapse6" class="panel-collapse collapse">
+        <div class="panel-body">
+        <p class="lead"><i class="fa fa-info-circle" aria-hidden="true"></i> Add Up To Three Relevant Projects </p>
+        <div id="Projects">
+        <div class="form-group row">
+          <div class="col-sm-10 col-sm-offset-1">
+            <textarea rows="3" maxlength="170" class="form-control" id="project1" placeholder="Project 1"></textarea>
+            <p id="courseHelpBlock" class="form-text text-muted">This could be a class project or personal project</p>
+        </div>
+      </div>
+      </div>
+      <div class="col-sm-10"></div>
+      <div class="col-sm-2"><a id="project"><i class="fa fa-plus fa-2x" aria-hidden="true"></i></a></div>
+      </div>
+      </div>
+    </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">Community Service</a>
+        </h4>
+      </div>
+      <div id="collapse7" class="panel-collapse collapse">
+        <div class="panel-body">
+          <p class="lead"><i class="fa fa-info-circle" aria-hidden="true"></i> Add Up To Two Relevant Community Service Activities </p>
+          <div id="community">
+          <div class="form-group row">
+            <div class="col-sm-10 col-sm-offset-1">
+              <textarea rows="3" maxlength="170" class="form-control" id="cs1" placeholder="Enter a Community Project"></textarea>
+              <p id="courseHelpBlock" class="form-text text-muted">e.g Mapping areas missing on maps through the missing maps project and red cross</p>
+          </div>
+        </div>
+        </div>
+        <div class="col-sm-10"></div>
+        <div class="col-sm-2"><a id="cs"><i class="fa fa-plus fa-2x" aria-hidden="true"></i></a></div>
+        </div>
+      </div>
+    </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">Customize</a>
+        </h4>
+      </div>
+      <div id="collapse8" class="panel-collapse collapse">
+        <div class="panel-body">
+          <div id="customize">
+            <p class="lead"><i class="fa fa-info-circle" aria-hidden="true"></i> Use the buttons below to change the location of your contact information, and other system edits. </p>
+                  <div class="form-group row">
+                    <div class="col-sm-4"><label for="font" >Name: </label></div>
+                    <div class="col-sm-2"><a id="decName"><i id="decButton" class="fa fa-minus " aria-hidden="true"></i></a></div>
+                    <div class="col-sm-4"><input id="namePosition" class="form-control" type="text"></div>
+                    <div class="col-sm-2"><a id="incName"><i id="incButton" class="fa fa-plus " aria-hidden="true"></i></a></div>
+                  </div>
+                  <div class="form-group row">
+                    <div class="col-sm-4"><label for="font" >Address: </label></div>
+                    <div class="col-sm-2"><a id="decAddress"><i id="decButton" class="fa fa-minus " aria-hidden="true"></i></a></div>
+                    <div class="col-sm-4"><input id="addressPosition" class="form-control" type="text"></div>
+                    <div class="col-sm-2"><a id="incAddress"><i id="incButton" class="fa fa-plus " aria-hidden="true"></i></a></div>
+                  </div>
+                <div class="form-group row">
+                  <div class="col-sm-4"><label for="font" >Phone: </label></div>
+                  <div class="col-sm-2"><a id="decPhone"><i id="decButton" class="fa fa-minus " aria-hidden="true"></i></a></div>
+                  <div class="col-sm-4"><input id="phonePosition" class="form-control" type="text"></div>
+                  <div class="col-sm-2"><a id="incPhone"><i id="incButton" class="fa fa-plus " aria-hidden="true"></i></a></div>
+              </div>
+              <div class="form-group row">
+                <div class="col-sm-4"><label for="font" >Portfolio: </label></div>
+                <div class="col-sm-2"><a id="decPortfolio"><i id="decButton" class="fa fa-minus " aria-hidden="true"></i></a></div>
+                <div class="col-sm-4"><input id="portfolioPosition" class="form-control" type="text"></div>
+                <div class="col-sm-2"><a id="incPortfolio"><i id="incButton" class="fa fa-plus" aria-hidden="true"></i></a></div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm-4"><label for="font" >Font Size: </label></div>
+              <div class="col-sm-8">
+              <select class="form-control" id="fontSize">
+                <option value="8">12</option>
+                <option value="8.5">13</option>
+                <option value="9">14</option>
+                <option value="9.5">15</option>
+                <option value="10">16</option>
+                <option value="10.5">17</option>
+                <option value="11">18</option>
+              </select>
+              </div>
+          </div>
+          <div class="form-group row">
+            <div class="col-sm-4"><label for="font" >Font Type: </label></div>
+            <div class="col-sm-8">
+            <select class="form-control" id="fontType">
+              <option value="Calibri">Calibri</option>
+              <option value="New Times Roman">New Times Roman</option>
+              <option value="Arial">Arial</option>
+              <option value="Verdana">Verdana</option>
+              <option value="Cambria">Cambria</option>
+              <option value="Garamond">Garamond</option>
+              <option value="Book Antiqua">Book Antiqua</option>
+            </select>
+            </div>
+        </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-6">
+                <iframe height="500px" width="100%" id="output"></iframe>
+                <button id="update_preview" class="btn btn-default">Update Preview</button>
+                <button class="btn btn-primary" id="download">Download</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+
+
+    <!-- Footer -->
+    </body>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h4><strong>Richard Igbiriki</strong>
+                    </h4>
+                    <p>1570 Baltimore Pike<br>Lincoln University, PA 19352</p>
+                    <ul class="list-unstyled">
+                        <li><i class="fa fa-phone fa-fw"></i> (484) 787-6585</li>
+                        <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:richard.igbiriki@lincoln.edu">richard.igbiriki@lincoln.edu</a>
+                        </li>
+                        <li> <a href="../img/Igbiriki_Richard_Resume.pdf" target="_blank">Download Resume</a></li>
+                        <li> <a href="../img/Igbiriki_Richard_Transcript.jpg" target="_blank">Transcript</a></li>
+                    </ul>
+                    <br>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="https://www.facebook.com/imorobebh" target="_blank"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/Imoris11" target="_blank"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://instagram.com/richie_talker/" target="_blank"><i class="fa fa-instagram fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/channel/UCNrzGpBfnNhGBZGpaAYIQww" target="_blank"><i class="fa fa-youtube fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://plus.google.com/u/0/110278921759760478714/posts" target="_blank"><i class="fa fa-google fa-fw fa-3x"></i></a>
+                        </li>
+                    </ul>
+                    <hr class="small">
+                    <p class="text-muted">Copyright &copy; Richard Igbiriki 2015</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.2.61/jspdf.min.js" type="text/javascript"></script>
+    <script src="../js/mine.js"></script>
+    <!-- Custom Theme JavaScript -->
+    <script>
+    // Closes the sidebar menu
+    $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Opens the sidebar menu
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+
+    // Scrolls to the selected menu item on the page
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
+</html>
