@@ -1,10 +1,22 @@
 /* Strings to try
- A12 + begin*24 + 123 + end*while*45 + 4654 +program * Beta123	***No Error: ACCEPTED***  <---New string to test
- A12 + Beta1 + 123 + A + 4654		***No Error: ACCEPTED***
- A12 + Beta1*24 + 123 + A*B*45 + 4654	***No Error: ACCEPTED***
- A12 + Beta1+					<-----Syntax ERROR
- A12 + Beta1+123.345+4654		<-----LEX ERROR
- A12 ^ Beta1+123 + A+ 4654	<-----LEX ERROR
+program calculation1
+begin
+Alpha12 = 12.45 while ( I <= 10 ) begin
+Alpha12 = Alpha12 + 2
+I= I+3 end
+Alpha12 = 14.56 + Beta end
+
+//Example 2
+program calculation2
+begin
+Alpha12 = 12.45 while ( I <= 10 ) begin
+Alpha12 = Alpha12 + 2 * I
+I= I+3
+While ( Alpha12 + 1 > Beta + 12.45) begin
+Beta = Beta + 1 end
+C123 = C123 * I – Beta * 12.34 + 45.45 -1200 end
+Alpha12 = 14.56 + Beta * 34 – 10 + 2.45676 * C123 end
+
  */
 //Expression  Parser - Example 2 of Recursive Descent Parser
 //Program -- By Prof. Barimani for Compiler Construction class - Fall 2016- Updated 11-12-2016
@@ -100,7 +112,7 @@ void finalstate(int fstate)
         case 4:
             tt = lowOp; terminal[i] = '\0'; done = true;
             break;
-        case 7: //----------------Notice this important new section to be used in your final program
+        case 7: 
             terminal[i] = '\0';
             if (strcmp(terminal, "program") == 0)
                 tt = ID_kwProgram;
