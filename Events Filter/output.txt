@@ -1,0 +1,1609 @@
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 1:08:08 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:08:08 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 1:08:08 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:08:08 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:08:08 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:08:08 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:08:08 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:05:22 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:05:22 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 1:05:22 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\New folder
+
+Accesses: DELETE
+
+Event ID: 4660
+Category:  File System
+Date: 7/20/2015	 Time: 1:05:22 PM
+Event Message: "An object was deleted.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:05:22 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\New folder
+
+Accesses: 	DELETE
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:05:22 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\New folder
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:05:18 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:05:14 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:04:59 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:04:59 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 1:04:44 PM
+Event Message: "A network share object was accessed.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:04:44 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:04:43 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:04:43 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:04:42 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\New folder
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 1:03:04 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:03:04 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:03:04 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:03:04 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:03:04 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:01:39 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:01:39 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:01:39 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\RecoveryBin\InProgress
+
+Accesses: 	SYNCHRONIZE
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 1:01:39 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\RecoveryBin\InProgress
+
+Accesses: WriteData (or AddFile)
+
+Event ID: 4659
+Category:  File System
+Date: 7/20/2015	 Time: 1:01:39 PM
+Event Message: "A handle to an object was requested with intent to delete.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\Enable Shadow Volume Copy on Share Drive.doc
+
+Accesses: DELETE
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:01:39 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\Enable Shadow Volume Copy on Share Drive.doc
+
+Accesses: 	DELETE
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 1:00:34 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\Enable Shadow Volume Copy on Share Drive.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:00:34 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\Enable Shadow Volume Copy on Share Drive.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:00:34 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:00:34 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:00:34 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:00:34 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\Enable Shadow Volume Copy on Share Drive.doc
+
+Accesses: 	DELETE
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 1:00:34 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 1:00:08 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 1:00:08 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:59:59 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:59:59 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:59:30 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\Enable Shadow Volume Copy on Share Drive.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:59:30 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\Enable Shadow Volume Copy on Share Drive.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:59:30 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:58:36 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\Enable Shadow Volume Copy on Share Drive.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:58:36 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\Enable Shadow Volume Copy on Share Drive.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:58:08 PM
+Event Message: "A network share object was accessed.
+Username: 	309-20$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:58:07 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	309-20$ Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:58:00 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:58:00 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:58:00 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:58:00 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:58:00 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:57:58 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:39 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:39 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:39 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:37 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:36 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:36 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:36 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:36 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:57:35 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:35 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\~$US Fix for Windows 8.1.doc
+
+Accesses: DELETE
+
+Event ID: 4660
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:35 PM
+Event Message: "An object was deleted.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:35 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:35 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\~$US Fix for Windows 8.1.doc
+
+Accesses: 	DELETE
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:57:35 PM
+Event Message: "A network share object was accessed.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:34 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:34 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\~$US Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:34 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:57:34 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:54:59 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:54:59 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:54:46 PM
+Event Message: "A network share object was accessed.
+Username: 	LOCAL SERVICE Domain: 	NT AUTHORITY
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:27 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:25 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:24 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:24 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:24 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:24 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:24 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:24 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:24 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:24 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:24 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:24 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\C4A21871.tmp
+
+Accesses: DELETE
+
+Event ID: 4660
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "An object was deleted.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\C4A21871.tmp
+
+Accesses: 	DELETE
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\8B234E30.tmp
+
+Accesses: DELETE
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	SYNCHRONIZE
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: WriteData (or AddFile)
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: DELETE
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	SYNCHRONIZE
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: WriteData (or AddFile)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\8B234E30.tmp
+
+Accesses: 	DELETE
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	DELETE
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:23 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:20 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\8B234E30.tmp
+
+Accesses: WriteData (or AddFile)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:54:20 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\8B234E30.tmp
+
+Accesses: 	READ_CONTROL
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:52:56 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:52:56 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:52:56 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:52:56 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:52:56 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:52:56 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:52:56 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:18 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:17 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:17 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:17 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:16 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:16 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:16 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:16 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:15 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\~$US Fix for Windows 8.1.doc
+
+Accesses: WriteData (or AddFile)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:15 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\~$US Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:15 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:14 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:14 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:14 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:10 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:10 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:10 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:09 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:09 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:09 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:09 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:09 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:09 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:08 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:08 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:52:07 PM
+Event Message: "A network share object was accessed.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:07 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:07 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4663
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:06 PM
+Event Message: "An attempt was made to access an object.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: \Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:52:06 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\WSUS Fix for Windows 8.1.doc
+
+Accesses: 	READ_CONTROL
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:50:47 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:50:46 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\New folder (4)
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:50:46 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\New folder (3)
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:50:46 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\New folder (2)
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:50:46 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\New folder
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:50:46 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2\innerfolder
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:50:46 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare\TestShare2
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:50:08 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:50:08 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:50:08 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:49:58 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:49:58 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:49:38 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:49:38 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\MainShare
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:47:52 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:47:52 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:47:52 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:47:51 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:47:51 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:44:58 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:44:58 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:43:06 PM
+Event Message: "A network share object was accessed.
+Username: 	309-20$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:43:06 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	309-20$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:42:47 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:42:47 PM
+Event Message: "A network share object was accessed.
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:42:47 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:42:47 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:42:47 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	DIM-305$ Domain: 	GROUP2-305
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:42:43 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4656
+Category:  File System
+Date: 7/20/2015	 Time: 12:42:43 PM
+Event Message: "A handle to an object was requested.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Object Name: 	\Device\HarddiskVolume7\
+
+Accesses: 	ReadData (or ListDirectory)
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:41:40 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:41:38 PM
+Event Message: "A network share object was accessed.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 5140
+Category:  File Share
+Date: 7/20/2015	 Time: 12:41:38 PM
+Event Message: "A network share object was accessed.
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:41:38 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:41:34 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:41:34 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Event ID: 4624
+Category:  Logon
+Date: 7/20/2015	 Time: 12:41:33 PM
+Event Message: "An account was successfully logged on.
+
+
+Username: 	teacher2 Domain: 	GROUP2-305
+
+Username: Administrator 
